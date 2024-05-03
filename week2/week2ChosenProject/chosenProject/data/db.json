@@ -1,0 +1,13 @@
+{
+
+    "api":[
+        {
+            "id":"1",
+            "type": "water yokai",
+            "name":"Kappa",
+            "habitat":"rivers and lakes",
+            "favorite_food":"cocumbers"
+        }
+    ]
+
+}
